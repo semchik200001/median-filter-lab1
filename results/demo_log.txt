@@ -1,0 +1,8 @@
+camera, ядро 3: PSNR 29.49 дБ, макс. разница OpenCV/native = 0
+camera, ядро 5: PSNR 27.68 дБ, макс. разница OpenCV/native = 0
+camera, ядро 7: PSNR 26.14 дБ, макс. разница OpenCV/native = 0
+camera, ядро 9: PSNR 24.76 дБ, макс. разница OpenCV/native = 0
+astronaut, ядро 3: PSNR 30.30 дБ, макс. разница OpenCV/native = 0
+astronaut, ядро 5: PSNR 27.58 дБ, макс. разница OpenCV/native = 0
+astronaut, ядро 7: PSNR 25.74 дБ, макс. разница OpenCV/native = 0
+astronaut, ядро 9: PSNR 24.38 дБ, макс. разница OpenCV/native = 0

@@ -1,0 +1,11 @@
+image,ksize,psnr_db,max_diff_opencv_native
+camera,0,14.77,
+camera,3,29.49,0
+camera,5,27.68,0
+camera,7,26.14,0
+camera,9,24.76,0
+astronaut,0,14.53,
+astronaut,3,30.3,0
+astronaut,5,27.58,0
+astronaut,7,25.74,0
+astronaut,9,24.38,0
